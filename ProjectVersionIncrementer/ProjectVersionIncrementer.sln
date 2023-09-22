@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectVersionIncrementer", "ProjectVersionIncrementer\ProjectVersionIncrementer.csproj", "{6072C37F-B2C1-42A2-8728-117B3B3CDE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectVersionIncrementerTest", "ProjectVersionIncrementerTest\ProjectVersionIncrementerTest.csproj", "{F86E49DB-B846-48CA-A493-3A841C80379C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6072C37F-B2C1-42A2-8728-117B3B3CDE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6072C37F-B2C1-42A2-8728-117B3B3CDE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6072C37F-B2C1-42A2-8728-117B3B3CDE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6072C37F-B2C1-42A2-8728-117B3B3CDE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86E49DB-B846-48CA-A493-3A841C80379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86E49DB-B846-48CA-A493-3A841C80379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86E49DB-B846-48CA-A493-3A841C80379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86E49DB-B846-48CA-A493-3A841C80379C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897393BA-CF13-4D86-A038-E932893D4E10}
+	EndGlobalSection
+EndGlobal
